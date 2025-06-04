@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:to_do_app/first..dart';
-import 'package:to_do_app/signup.dart';
 
 void main() {
   runApp(const MyApp());
